@@ -5,7 +5,7 @@
 > 👨‍💻 Developed by **IWY Explorers** — *Isha, Waseem, and Yumna*.
 
 ---
-
+🔗 **GitHub Repo:** [https://github.com/Waseem-Muhammad/ShoppingCartApp.git](https://github.com/Waseem-Muhammad/ShoppingCartApp.git)
 ## 📌 Overview
 
 **ShoppingCartApp** is an interactive command-line application that simulates a real-world shopping experience using Object-Oriented Programming (OOP) in C++. Users can browse product categories, add items to their cart, view and manage the cart, and check out—all in a colorful terminal interface.
@@ -89,7 +89,7 @@ bin\ShoppingCartApp.exe
 ## 👨‍👩‍👧‍👦 Developed By
 
 **IWY Explorers Team** 👇  
-👩‍💻 Isha Shabab
+👩‍💻 Isha Shabab   
 👨‍💻 Muhammad Waseem  
 👩‍💻 Yumna Arif
 
